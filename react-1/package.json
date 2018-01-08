@@ -14,5 +14,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage" : "https://gnnslav.github.io/DZ_R_1/react-1/build/"
+  "homepage" : "https://github.com/gnnslav/DZ_R_1/tree/master/react-1/build/"
 }
