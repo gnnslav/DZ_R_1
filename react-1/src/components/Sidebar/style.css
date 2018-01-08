@@ -1,0 +1,44 @@
+.Sidebar{
+	width: 25%;
+	margin: 10px;
+	padding-left: 20px;
+	border: 2px solid grey;
+}
+
+.Search{
+	width: 95%;
+}
+.Input{
+	width: 95%;
+	height: 20px;
+	font-size: 14px;
+	background: white;
+	color: grey;
+}
+
+.Description{
+	width: 95%;
+	height: 350px;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap; 
+}
+
+.Search-btn{
+	display: flex;
+	flex-wrap: wrap; 
+	justify-content: center;
+	padding: 10px;
+}
+.Button{
+	width: 100px;
+	height: 35px;
+	padding: 5px;
+	margin: auto;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	background-color: gray;
+}
+
+
